@@ -1,7 +1,7 @@
 # BouldeRate
 
-BouldeRate is an app that allows users to rate bouldering institutes and share climbing tips for an ultimate experience.
-The app provides features such as login with phone number authentication, rating bouldering institutes, and sharing climbing tips.
+BouldeRate is a mobile app that allows users to rate bouldering institutes and share climbing tips for an ultimate experience.
+The app provides features such as log-in with phone number authentication, rating bouldering institutes, and sharing climbing tips.
 
 ## Features
 
