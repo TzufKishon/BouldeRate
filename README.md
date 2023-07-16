@@ -1,17 +1,15 @@
 # BouldeRate
 
-BouldeRate is an android mobile app that allows users to rate climbing institutes and share tips for an ultimate experience.
+BouldeRate is an Android mobile app that allows users to rate bouldering (sport climbing)  institutes and share tips for an ultimate experience.
 
-Watch the video demonstration on ###
 
 ## Features
 
-1. **Login with Phone Number Authentication:** Users can create an account or log in to the app using their phone number.
+1. **Login and user authentication via phone number:** Users can create an account or log in to the app using their phone number.
 
 2. **Rate Bouldering Institutes:** Users can rate and review bouldering institutes they have visited.o
 
-3. **Share Climbing Tips:** Users can share their own climbing tips and tricks for others to discover. This feature allows climbers to exchange knowledge and 
-enhance their climbing experience.
+3. **Share Climbing Tips:** Users can share their own climbing tips and tricks for others to discover.
 
 ## Installation
 1. Clone the repository:
@@ -20,7 +18,7 @@ enhance their climbing experience.
 git clone https://github.com/TzufKishon/BouldeRate.git
 ```
 
-2. Build and run the application on your preferred platform.
+2. Build and run the application on Android Studio.
 
 ## Server and Data Management
 
