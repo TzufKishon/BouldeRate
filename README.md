@@ -16,7 +16,9 @@ enhance their climbing experience.
 ## Installation
 1. Clone the repository:
 
+```bash
 git clone https://github.com/TzufKishon/BouldeRate.git
+```
 
 2. Build and run the application on your preferred platform.
 
@@ -36,13 +38,13 @@ The following server-side functionalities are implemented:
 
 ## Known Bugs
 
-**1.** Inconsistent user name when signing up with the same phone number:
+**1.** Inconsistent user name when signing up with the same phone number for the second time:
 
 When a user signs up to the app using the same phone number but a different name, the user's name is not consistently updated across the ratings and tips sections. Consequently, when the user attempts to rate or submit a tip, the app collapses.
 
 **2.** Non-smooth transitions between the rating screen and the Main screen:
 
-There are noticeable issues with the transitions between the rating screen and the main screen. The transitions appear to be non-smooth, resulting in a jarring visual experience for users.
+There are noticeable issues with the transitions between the rating screen and the main screen, the transitions appear to be non-smooth.
 
 
 
