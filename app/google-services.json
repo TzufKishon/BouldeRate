@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957213349910",
+    "project_id": "boulderate",
+    "storage_bucket": "boulderate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957213349910:android:cc88ea476b895e0b85bd37",
+        "android_client_info": {
+          "package_name": "com.example.boulderate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957213349910-i67o97i8klb59b3pfuq07uaojf64s8b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pzaZrnLH2T8mcVhkhOtg0WvdnHWzUo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957213349910-i67o97i8klb59b3pfuq07uaojf64s8b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

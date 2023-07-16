@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BouldeRate" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#36719A</item>
+    </style>
+
+    <style name="Theme.BouldeRate" parent="Base.Theme.BouldeRate" />
+</resources>
