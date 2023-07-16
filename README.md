@@ -7,7 +7,7 @@ BouldeRate is an Android mobile app that allows users to rate bouldering (sport 
 
 1. **Login and user authentication via phone number:** Users can create an account or log in to the app using their phone number.
 
-2. **Rate Bouldering Institutes:** Users can rate and review bouldering institutes they have visited.o
+2. **Rate Bouldering Institutes:** Users can rate and review bouldering institutes they have visited.
 
 3. **Share Climbing Tips:** Users can share their own climbing tips and tricks for others to discover.
 
