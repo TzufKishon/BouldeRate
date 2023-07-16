@@ -8,9 +8,7 @@ BouldeRate is a mobile app that allows users to rate bouldering institutes and s
 
 2. **Rate Bouldering Institutes:** Users can rate and review bouldering institutes they have visited.o
 
-3. **Share Climbing Tips:** Users can share their own climbing tips and tricks for others to discover.
-
-This feature allows climbers to exchange knowledge and enhance their climbing experience.
+3. **Share Climbing Tips:** Users can share their own climbing tips and tricks for others to discover.               This feature allows climbers to exchange knowledge and enhance their climbing experience.
 
 ## Installation
 1. Clone the repository:
