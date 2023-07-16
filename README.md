@@ -15,7 +15,7 @@ BouldeRate is an Android mobile app that allows users to rate bouldering (sport 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TzufKishon/BouldeRate.git
+https://github.com/TzufKishon/BouldeRate.git
 ```
 
 2. Build and run the application on Android Studio.
