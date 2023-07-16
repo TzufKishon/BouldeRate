@@ -13,7 +13,7 @@ BouldeRate is a mobile app that allows users to rate bouldering institutes and s
 ## Installation
 1. Clone the repository:
 
-https://github.com/TzufKishon/BouldeRate.git
+git clone https://github.com/TzufKishon/BouldeRate.git
 
 2. Build and run the application on your preferred platform.
 
